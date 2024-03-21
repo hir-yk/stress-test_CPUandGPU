@@ -2,6 +2,8 @@
 
 This repository contains two Python scripts for stressing and monitoring the temperatures of CPU and GPU on a system.
 
+![screenshot](img/image.png)
+
 ## cpu_gpu_stress.py
 
 `cpu_gpu_stress.py` is a script designed to apply a specified load to the CPU and GPU to test their performance and cooling systems.
